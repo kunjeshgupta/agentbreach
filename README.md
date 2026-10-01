@@ -122,24 +122,6 @@ Monitors the critical trade-off between runtime security validation overhead and
 
 ---
 
-## 💼 Resume & Portfolio Alignment
-
-### For AI Product Manager (APM / PM / AI Safety) Roles:
-> **Autonomous AI Governance & Red-Teaming Platform (AgentBreach)**
-> * Defined product vision and threat model for an autonomous tool-call security suite evaluating ReAct agents against OWASP LLM07 (Insecure Plugin Design) and NIST AI RMF standards.
-> * Designed an executive Go/No-Go release gatekeeper tracking Attack Success Rate (ASR) with 95% Wilson confidence intervals, False Refusal Rates (FRR), and P95 latency vs. security overhead.
-> * Architected a closed-loop remediation engine synthesizing hardened prompt directives and deterministic parameter validation schemas, reducing agent vulnerability from 28.6% ASR to 0.0% in 1 click.
-> * Authored automated CISO audit reporting modules generating exportable Markdown and print-ready PDF governance scorecards for cross-functional compliance reviews.
-
-### For Data Analyst / Automation / AI Engineer Roles:
-> **Automated LLM Agent Evaluation & Benchmark Engine (AgentBreach)**
-> * Developed an automated benchmark framework evaluating 12 adversarial probes across indirect prompt injection, parameter tampering, and privilege escalation in a TypeScript/Vite sandbox.
-> * Implemented deterministic security oracles and mathematical statistics computing binomial Wilson score confidence intervals, P50/P90/P95 latencies, and token cost metrics.
-> * Created an interactive ReAct trace inspector visualizing chain-of-thought steps, tool call parameters, and in-memory financial ledger state mutations in real time.
-> * Shipped an interactive testing playground enabling security engineers to simulate custom adversarial payloads and verify runtime boundary enforcement.
-
----
-
 ## 🚀 Quickstart & Local Installation
 
 ### Prerequisites
