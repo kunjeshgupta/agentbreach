@@ -2,11 +2,11 @@
 ### Autonomous Agent Tool-Call Security & Governance Suite
 **Deterministic Red-Teaming, OWASP LLM07 Hardening, and Statistical Release Gatekeeping for Production AI Agents**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![AI Pair Programmer: Google Gemini](https://img.shields.io/badge/AI%20Pair%20Programmer-Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![Standards: OWASP Top 10 for LLMs](https://img.shields.io/badge/OWASP-LLM07_Tool_Insecurity-red)](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 [![NIST AI RMF 1.0](https://img.shields.io/badge/NIST-AI_RMF_Measure_2.6-indigo)](https://www.nist.gov/itl/ai-risk-management-framework)
 [![TypeScript: 5.6](https://img.shields.io/badge/TypeScript-5.6-blue)](https://www.typescriptlang.org/)
-[![Vite: 5.4](https://img.shields.io/badge/Vite-5.4-purple)](https://vitejs.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
 
@@ -17,6 +17,15 @@ As enterprise software transitions from passive chat interfaces to **autonomous 
 When an agent is tricked via **Indirect Prompt Injection** (e.g., hidden instructions inside an order note or invoice) or **Parameter Tampering**, the danger is not what the agent *says* — it is the **API calls it makes, the financial ledgers it mutates, and the customer data it exfiltrates**.
 
 **AgentBreach** is an enterprise-grade automated "crash-test facility" for tool-calling agents. It evaluates function-calling agents in a hermetic mock banking sandbox (`PayVortex Inc.`), subjecting them to 12 multi-stage adversarial attack vectors and benign controls. It computes statistical **Attack Success Rates (ASR)** with **95% Wilson score confidence intervals**, enforces an automated **Executive Go / No-Go Deployment Gate**, and features a **Closed-Loop Remediation Engine** that synthesizes runtime defenses and re-evaluates the agent in 1 click.
+
+---
+
+## 🤖 Built with Google Gemini & Antigravity
+
+This repository showcases advanced human-AI collaborative software development:
+* **Product Vision & Architecture:** Conceived and directed by **Kunjesh Gupta** (`kunjeshgupta`).
+* **AI Autonomous Pair Programmer:** Developed with **Google Gemini (DeepMind Antigravity)**.
+* **Threat Modeling & Mathematical Rigor:** Wilson confidence score distributions, deterministic security oracles, and ReAct tool execution traces co-engineered with Gemini.
 
 ---
 
