@@ -3,7 +3,7 @@
 ## 1. Git Identity & Authorship Standards (CRITICAL)
 - **Primary Git Author Name:** `kunjeshgupta`
 - **Primary Git Email:** `kunjesh_gupta@yahoo.com`
-- **FORBIDDEN:** NEVER use `kunjeshg@usc.edu` or `usc-kunjesh` in any commits, files, or configurations.
+- **FORBIDDEN:** NEVER use any academic/university credentials or secondary aliases in any commits, files, or configurations.
 - **Sole Contributor:** Kunjesh Gupta (`kunjeshgupta <kunjesh_gupta@yahoo.com>`). Do NOT add external co-authors.
 
 ## 2. GitHub & Build Lifecycle Workflow
